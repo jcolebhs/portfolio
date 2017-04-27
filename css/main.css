@@ -53,6 +53,13 @@ a  {
 	border: none;
 }
 
+table {
+	color: black;
+	border: 5px solid #000;
+	background-color: white;
+	
+}
+
 
 footer {
 	border-top: 10px solid #000;
@@ -75,3 +82,7 @@ footer {
 footer {
 	border-top: 10px solid black;
 }
+
+@media only screen and (max-width: 600px;) {
+	
+}	
